@@ -1,2 +1,2 @@
 # LEDx16
-MAtrix de 2 x 8x8 LEDs RGB
+Matrix de 2 x 8x8 LEDs RGB
